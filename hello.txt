@@ -1,1 +1,4 @@
 This is just a frickin' Hello World
+
+Oh, there is also an Arduino sketch for Blink that uses ATMega328p
+registers rather than the Arduino commands
